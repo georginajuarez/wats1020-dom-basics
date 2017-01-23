@@ -6,8 +6,17 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    background-image: url("cherry-blossom.jpg");
+}
+
 .fortune-cookie-saying-wrapper {
-    border: 1px solid #666;
+    background-color: aliceblue;
+    border: 3px outset pink;
     padding: 1em;
     margin: 1em;
+}
+
+ul {
+    list-style-type: none;
 }
