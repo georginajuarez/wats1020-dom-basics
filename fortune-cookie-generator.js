@@ -116,3 +116,16 @@ var fortunesList = [
 ]
 
 
+/*      KEEP IN MIND FOR FUTURE REFERENCE:
+        Belongs after var randomIndex
+        var oldFortune = fortuneText.innerHTML;
+        //var keepGoing = True;
+        //While loops can be tricky
+        while(keepGoing) {
+        if (newFortune = oldFortune){
+        randIndex = ...
+        newFortune = ...
+        } else {
+        keepGoing = False;
+            }
+        } */
